@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **최신판은 우로보로스 저장소에 있습니다 — 이 저장소는 옛 판(3.0.4 · 2026-09-04) 보관용입니다.**
+> 지금 쓰는 SearchFlow(우로보로스판) = https://github.com/treylom/ouroboros/tree/km-main/skills/searchflow
+> 이 저장소는 더 갱신하지 않습니다. 새 기능·고침은 위 주소에만 들어갑니다.
+>
+> **The latest SearchFlow lives in the Ouroboros repo** — https://github.com/treylom/ouroboros/tree/km-main/skills/searchflow. This repo is kept as an archive of the old standalone version (3.0.4) and is no longer updated.
+
 # SearchFlow — 리서치 공정 (구 Deep Research)
 
 소스 등급 가중 점수 + 은닉 문턱 게이트로 **깊이를 사후 결정**하는 리서치 공정.
